@@ -1,4 +1,6 @@
 # Flat-Top
+# M. Vishnu Varshini
+# 212223060306
 # Aim
 Write a Python program for the Construction and Reconctruction of Flat-Top Sampleing.
 # Tools required
@@ -82,3 +84,6 @@ plt.show()
 # Results
 Flat Top Sampling was successfully simulated using a pulse train to sample a continuous-time message signal. The sampled waveform retained the amplitude of the original signal at discrete intervals with flat tops. The output waveform confirms accurate flat-top representation of the message signal samples.
 # Hardware experiment output waveform.
+
+![flattop](https://github.com/user-attachments/assets/2c2631ef-c77a-4919-b351-5ffb983e1328)
+
